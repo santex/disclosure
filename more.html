@@ -317,6 +317,8 @@
   |&nbsp;
   <a href="http://www.youtube.com/watch?v=XlkV1ybBnHI" target="_blank" >take it from an other astronaut</a>
   |&nbsp;
+  <a href="http://www.youtube.com/watch?v=yO0T05kQkbs" target="_blank" >take it from an other astronaut</a>
+
       </div>
       <br>
       <div style="float:left;">
